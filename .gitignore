@@ -1,5 +1,8 @@
-build/*
-builddir/*
-
-!build
-!builddir
+build/**
+builddir/**
+bin/**
+obj/**
+glad.make
+Makefile
+.xmake/**
+.vscode
