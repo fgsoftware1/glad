@@ -1,5 +1,5 @@
 /build/*
 /builddir/*
 
-!/build/
-!/builddir/
+!build/
+!builddir/
