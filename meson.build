@@ -1,2 +1,2 @@
 project('glad', 'c')
-library('glad', 'src/gl.c')
+static_library('glad', 'src/gl.c', include_directories: 'include')
